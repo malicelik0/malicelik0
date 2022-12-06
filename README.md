@@ -6,4 +6,6 @@
 - 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malicelik0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malicelik0&hide=javascript,css,scss,html&theme=tokyonight)
+
 
